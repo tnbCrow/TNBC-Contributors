@@ -10,6 +10,9 @@ assignees: ''
 #### What is your GitHub username?
 YOUR_GITHUB_USERNAME
 
+#### What name/ nickname would you prefer in the signature?
+YOUR_NICKNAME
+
 #### Did you send 1 TNBC to 0000000000000000000000000000000000000000000000000000000000000000 with the memo YOUR_GITHUB_USERNAME?
 Yes/ No
 
